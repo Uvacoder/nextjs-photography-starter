@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Facebook from "../components/Facebook";
 import Hero from "../components/Hero";
 import Slider from "../components/Slider";
 
@@ -11,7 +12,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero heading="Unique Studio Photography" message="We capture moments" />
-      <Slider/>
+      <Slider />
+      <Facebook />
     </div>
   );
 }
