@@ -28,7 +28,7 @@ const Slider = () => {
         >
           <SwiperSlide>
             <Image
-              src="/Slider1.jpeg"
+              src="/Slider1.jpg"
               alt="/"
               width="1440"
               height="600"
@@ -37,7 +37,7 @@ const Slider = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Image
-              src="/Slider2.jpeg"
+              src="/Slider2.jpg"
               alt="/"
               width="1440"
               height="600"
@@ -46,7 +46,7 @@ const Slider = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Image
-              src="/Slider3.jpeg"
+              src="/Slider3.jpg"
               alt="/"
               width="1440"
               height="600"
@@ -55,7 +55,7 @@ const Slider = () => {
           </SwiperSlide>
           <SwiperSlide>
             <Image
-              src="/Slider4.jpeg"
+              src="/Slider4.jpg"
               alt="/"
               width="1440"
               height="600"
